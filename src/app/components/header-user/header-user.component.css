@@ -1,0 +1,21 @@
+.navbar-cherry { background-color: #f50e0e; 
+                color: white;  }
+.navbar-cherry .nav-link { 
+    color: white !important; 
+    /* Asegúrate de que los enlaces también sean blancos */ 
+}
+ .navbar-cherry .navbar-brand { 
+    color: white !important; 
+    /* Asegúrate de que el texto de la marca también sea blanco */ 
+}
+.navbar-cherry .navbar-toggler-icon { 
+    filter: invert(1); /* Cambia el color del icono del toggler a blanco */ 
+}
+.navbar-cherry .btn-outline-success { 
+    color: white !important; /* Cambia el color del texto del botón a blanco */ 
+    border-color: white !important; /* Cambia el color del borde del botón a blanco */
+ } 
+ .navbar-cherry .btn-outline-success:hover { 
+    background-color: white !important; /* Cambia el color de fondo del botón al pasar el ratón */ 
+    color: #d32f2f !important; /* Cambia el color del texto al pasar el ratón */
+ }
